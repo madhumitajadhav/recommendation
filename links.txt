@@ -1,0 +1,5 @@
+https://www.r-bloggers.com/item-based-collaborative-filtering-recommender-systems-in-r/
+http://bigdata-doctor.com/recommender-systems-101-practical-example-in-r/
+https://www.analyticsvidhya.com/blog/2016/03/exploring-building-banks-recommendation-system/
+http://blog.yhat.com/posts/recommender-system-in-r.html
+http://recommender-systems.org/collaborative-filtering/
